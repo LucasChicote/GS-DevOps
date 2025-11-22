@@ -27,7 +27,7 @@ docker run --name tabelas-banco-de-dados -p 3306:3306 -e MYSQL_ROOT_PASSWORD=RM5
 ```bash
 winpty docker exec -it tabelas-banco-de-dados mysql -u root -p
 ```
-Comandos para CRUD
+## Comandos para criação de uma database
 
 1. Criação de uma database
 ```bash
@@ -38,7 +38,8 @@ CREATE DATABASE mentalcheck;
 USE mentalcheck
 ```
 
-Crud
+## Crud
+
 1. CREATE
 ```bash
 INSERT INTO GS_USUARIO (nome, email, senha, cargo, modalidade_trabalho)
