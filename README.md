@@ -4,7 +4,7 @@
 O MentalCheck é um aplicativo desenvolvido com foco em promover o equilíbrio emocional de trabalhadores, prevenindo casos de burnout e aumentando a autoconsciência sobre fatores que influenciam motivação, estresse, cansaço e satisfação profissional.
 A proposta central do sistema é oferecer um método simples, rápido e inteligente para que colaboradores realizem check-ins diários sobre seu estado emocional, possibilitando o acompanhamento contínuo e a identificação de padrões comportamentais ao longo das semanas e meses. Além disso, o projeto contribui para que gestores tenham acesso a métricas anônimas e agregadas, permitindo decisões mais estratégicas e humanizadas, sem violar a privacidade dos usuários.
 
-### GlobalSolution
+## GlobalSolution
 Nessa primeira parte da GS foi criada uma Máquina Virtual no provedor de Nuvem(Azure) por Debian/Ubuntu. E a solução foi planejada e arquitetada por *container docker* para e melhorar a experiência do projeto e fazer crud pelo docker
 
 ## Como foi planejado a estrutura de deploy
