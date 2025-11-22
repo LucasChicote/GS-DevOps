@@ -17,7 +17,7 @@ Nessa primeira parte da GS foi criada uma Máquina Virtual no provedor de Nuvem(
 <img width="2226" height="681" alt="DiagramaDeAquiteturaMacro_BackEnd" src="https://github.com/user-attachments/assets/8c44bd4d-d9eb-489c-9c8e-a60d0d718c75" />
 
 
-Comandos para o deploy para o crud
+## Comandos para o deploy para o crud
 
 1. Aqui foi criado um container para o MYSQL
 ```bash
